@@ -1,8 +1,5 @@
 package com.design_pattern._01_creational_patterns._02factory_method._02_after;
 
-import me.whiteship.designpatterns._01_creational_patterns._03_abstract_factory._02_after.Anchor;
-import me.whiteship.designpatterns._01_creational_patterns._03_abstract_factory._02_after.Wheel;
-
 public class Ship {
 
     private String name;
